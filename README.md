@@ -4,11 +4,11 @@
 
 Illustrator artboard layout:
 
-![illustrator](https://cloud.githubusercontent.com/assets/218624/11672115/705fab06-9dc2-11e5-9271-abb10615171c.png)
+![illustrator](illustrator.png)
 
 Indesign pages:
 
-![indesign](https://cloud.githubusercontent.com/assets/218624/11672116/706132a0-9dc2-11e5-8791-9a64b7e2bc54.png)
+![indesign](indesign.png)
 
 Used to create [a card like this](https://www.behance.net/gallery/27441523/Open-House-Invitation).
 
